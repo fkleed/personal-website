@@ -5,7 +5,8 @@
       :key="story.content._uid"
       :blok="story.content"
       :is="story.content.component" /> -->
-      <h1>Test</h1>
+      <img src="~/assets/images/construction.jpg" alt="under construction">
+      <h1 class="m-4 text-center text-2xl">This site is under construction. <br>Updates will follow soon :)</h1>
   </section>
 </template>
  
